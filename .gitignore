@@ -43,3 +43,8 @@ dotnet/paket-detected/packages.lock.json
 haskell/ambiguous/stack.yaml.lock
 haskell/cabal-detected/stack.yaml.lock
 haskell/stack-detected/stack.yaml.lock
+
+# Added by Autar: duplicate JVM lockfiles removed
+jvm/ambiguous/build.sbt.lock
+jvm/gradle-detected/build.sbt.lock
+jvm/sbt-detected/build.sbt.lock
