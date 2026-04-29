@@ -34,3 +34,7 @@ swift/all-three/Podfile.lock
 swift/ambiguous/Cartfile.resolved
 swift/cocoapods-detected/Cartfile.resolved
 swift/spm-detected/Podfile.lock
+
+# Added by Autar: duplicate .NET lockfiles removed
+dotnet/nuget-ambiguous/packages.lock.json
+dotnet/paket-detected/packages.lock.json
