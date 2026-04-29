@@ -48,3 +48,8 @@ haskell/stack-detected/stack.yaml.lock
 jvm/ambiguous/build.sbt.lock
 jvm/gradle-detected/build.sbt.lock
 jvm/sbt-detected/build.sbt.lock
+
+# Added by Autar: duplicate C/C++ lockfiles removed
+cpp/ambiguous/vcpkg-lock.json
+cpp/conan-detected/vcpkg-lock.json
+cpp/vcpkg-detected/vcpkg-lock.json
