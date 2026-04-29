@@ -1,0 +1,5 @@
+[project]
+name = "tool-pdm-fixture"
+
+[tool.pdm]
+distribution = false

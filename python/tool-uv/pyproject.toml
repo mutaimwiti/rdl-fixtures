@@ -1,0 +1,5 @@
+[project]
+name = "tool-uv-fixture"
+
+[tool.uv]
+dev-dependencies = []

@@ -1,0 +1,5 @@
+[project]
+name = "no-conflict-fixture"
+
+[tool.uv]
+dev-dependencies = []
