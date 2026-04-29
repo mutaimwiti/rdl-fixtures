@@ -9,3 +9,12 @@ node/packagemanager-npm/yarn.lock
 node/packagemanager-pnpm/package-lock.json
 node/packagemanager-pnpm/yarn.lock
 node/packagemanager-yarn-berry/package-lock.json
+
+# Added by Autar: duplicate Python lockfiles removed
+python/ambiguous/poetry.lock
+python/pipfile/poetry.lock
+python/pixi-vs-uv/uv.lock
+python/tool-pdm/uv.lock
+python/tool-poetry/uv.lock
+python/tool-uv/poetry.lock
+python/tool-uv-vs-pipfile/Pipfile.lock
