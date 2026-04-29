@@ -27,3 +27,10 @@ go/ambiguous/Gopkg.lock
 go/dep-vs-glide/glide.lock
 go/go-modules-vs-dep/Gopkg.lock
 go/go-modules-vs-glide/glide.lock
+
+# Added by Autar: duplicate Swift lockfiles removed
+swift/all-three/Cartfile.resolved
+swift/all-three/Podfile.lock
+swift/ambiguous/Cartfile.resolved
+swift/cocoapods-detected/Cartfile.resolved
+swift/spm-detected/Podfile.lock
