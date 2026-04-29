@@ -38,3 +38,8 @@ swift/spm-detected/Podfile.lock
 # Added by Autar: duplicate .NET lockfiles removed
 dotnet/nuget-ambiguous/packages.lock.json
 dotnet/paket-detected/packages.lock.json
+
+# Added by Autar: duplicate Haskell lockfiles removed
+haskell/ambiguous/stack.yaml.lock
+haskell/cabal-detected/stack.yaml.lock
+haskell/stack-detected/stack.yaml.lock
