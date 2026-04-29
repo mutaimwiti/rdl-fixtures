@@ -21,3 +21,9 @@ python/tool-uv-vs-pipfile/Pipfile.lock
 
 # Added by Autar: duplicate Ruby lockfiles removed
 ruby/bundler-same-manager/gems.locked
+
+# Added by Autar: duplicate Go lockfiles removed
+go/ambiguous/Gopkg.lock
+go/dep-vs-glide/glide.lock
+go/go-modules-vs-dep/Gopkg.lock
+go/go-modules-vs-glide/glide.lock
