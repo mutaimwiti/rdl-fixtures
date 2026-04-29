@@ -1,0 +1,11 @@
+# Added by Autar: duplicate Node lockfiles removed
+node/ambiguous/package-lock.json
+node/bun-dual-lockfiles/bun.lockb
+node/bun-vs-yarn-detected/yarn.lock
+node/config-pnpm-workspace/package-lock.json
+node/config-yarn/package-lock.json
+node/deno-vs-npm/package-lock.json
+node/packagemanager-npm/yarn.lock
+node/packagemanager-pnpm/package-lock.json
+node/packagemanager-pnpm/yarn.lock
+node/packagemanager-yarn-berry/package-lock.json
