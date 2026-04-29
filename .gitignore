@@ -53,3 +53,8 @@ jvm/sbt-detected/build.sbt.lock
 cpp/ambiguous/vcpkg-lock.json
 cpp/conan-detected/vcpkg-lock.json
 cpp/vcpkg-detected/vcpkg-lock.json
+
+# Added by Autar: duplicate BEAM lockfiles removed
+beam/ambiguous/rebar.lock
+beam/hex-detected/rebar.lock
+beam/rebar3-detected/rebar.lock
